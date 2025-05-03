@@ -1,5 +1,5 @@
 module github.com/seekerror/logw
 
-go 1.13
+go 1.24.2
 
-require github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
+require github.com/golang/glog v1.2.5
